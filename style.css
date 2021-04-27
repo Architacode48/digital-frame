@@ -1,0 +1,10 @@
+.heading{
+    font-family: 'Bungee Outline', cursive;
+    color:red;
+    font-size: 80px;;
+}
+canvas{margin-top:50px;
+    animation-name:example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
